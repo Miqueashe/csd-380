@@ -1,2 +1,4 @@
-# csd-380
-Repository for csd-380
+# CSD 380 DEVOPS
+## Contributers
+*Miqueas Herrera
+*John Woods
